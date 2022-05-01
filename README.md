@@ -20,5 +20,5 @@ ubuntu (or lets say, linux.) - for doing some stuff in some github repositories.
 
 ** **
 yes i used emojis, dont complain
-
-and im not bothered to change my pfp
+  
+and yes i can do pixel art
