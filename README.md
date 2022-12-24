@@ -1,5 +1,5 @@
 # <p align="center">hello there<p>
-<p align="center">i dont know who even does this type of readme thing but ig you are curious sooo<p>
+<p align="center">i dont know who even does this type of readme thing but i think you might be curious who i am and what i can do<p>
 
 ** **
 
